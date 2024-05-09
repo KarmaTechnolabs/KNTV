@@ -1,2 +1,0 @@
-# KNTV
-KNTV for news

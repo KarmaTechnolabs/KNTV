@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/audio_session-0.1.19/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/connectivity_plus-6.0.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/device_info_plus-10.1.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/facebook_audience_network-1.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/file_picker-5.5.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_auth-4.19.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core-2.30.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_dynamic_links-5.5.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_messaging-14.9.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.8.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_keyboard_visibility-5.4.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_local_notifications-17.1.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_login_facebook-2.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.19/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_tts-4.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/google_mobile_ads-5.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.23/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/image_picker_android-0.8.11/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/in_app_review-2.0.9/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/just_audio-0.9.37/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/location-6.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/package_info_plus-8.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_android-2.2.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/share_plus-9.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/sign_in_with_apple-6.1.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/sms_autofill-2.3.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/sqflite-2.3.3+1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/unity_ads_plugin-0.3.14/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/video_player_android-2.4.14/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/wakelock-0.6.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/wakelock_plus-1.2.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_android-3.16.1/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
